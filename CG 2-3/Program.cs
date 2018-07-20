@@ -17,6 +17,7 @@ namespace CG_2_3
             Console.WriteLine("Please Type a Noun.");
             string noun = Console.ReadLine();
 
+            Console.WriteLine();
             Console.WriteLine("On " + adjective + " days I like to " + verb + " while I play my " + noun);
             Console.ReadLine();
 
